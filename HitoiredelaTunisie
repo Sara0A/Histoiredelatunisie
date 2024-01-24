@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>L'histoire de la Tunisie</title>
+</head>
+
+<style>
+    div.encadrement1 {
+background:#530a0a;
+border-top:7px solid #000000;
+border-bottom:7px solid #000000;
+border-right:7px solid #000000 ;
+border-left:7px solid #000000;
+padding:1em 1em 1em 5em;
+}
+</style>
+<body>
+  <div class="encadrement1">
+<font color="#ffffff"><font face="Apparel"><center><big><big><big><h1>L'histoire de la Tunisie en quelques lignes </h1></big></big></big></center></font></font>
+    <div id="grad"></div>
+</div>
+
+
+
+<p><font size= 6px><center>L'histoire de la Tunisie est fascinante, s'&eacute;tendant sur des mill&eacute;naires et traversant diverses &eacute;poques marquantes.</center></font></p>
+<hr>
+<p><font size= 5px>Dans la pr&eacute;histoire tunisienne, les premiers habitants &eacute;taient des chasseurs-cueilleurs nomades dont les outils en pierre, tels que des pointes de fl&egrave;ches et des grattoirs en silex, t&eacute;moignent de comp&eacute;tences techniques avanc&eacute;es. L'art rupestre,illustrant des sc&egrave;nes de chasse et des c&eacute;r&eacute;monies rituelles, ainsi que les s&eacute;pultures avec des objets fun&eacute;raires, r&eacute;v&egrave;lent un mode de vie complexe et des pratiques rituelles &eacute;labor&eacute;es. Ces vestiges offrent un aper&ccedil;u fascinant de la vie quotidienne, de la cr&eacute;ativit&eacute; artistique et des croyances des premi&egrave;res communaut&eacute;s tunisiennes.</font></p>
+
+<p><font size= 5px>L'&eacute;mergence de Carthage au 9e si&egrave;cle avant notre &egrave;re par les Ph&eacute;niciens marque le d&eacute;but d'une civilisation florissante. Les guerres puniques entre Carthage et Rome au 3e si&egrave;cle avant notre &egrave;re ont conduit &agrave; la destruction de Carthage en 146 avant notre &egrave;re, pla&ccedil;ant la Tunisie sous domination romaine. Cette p&eacute;riode a vu le d&eacute;veloppement d'infrastructures et l'&eacute;panouissement de l'agriculture.</font></p>
+
+<p><font size= 5px>La p&eacute;riode byzantine a suivi la chute de l'Empire romain, jusqu'&agrave; l'arriv&eacute;e des Arabes musulmans au 7e si&egrave;cle. Kairouan est devenue un centre culturel et religieux important.</font></p>
+
+<p><font size= 5px>La Tunisie a ensuite &eacute;t&eacute; sous la domination ottomane &agrave; partir du 16e si&egrave;cle, devenant un beylicat autonome. L'arriv&eacute;e des Europ&eacute;ens, principalement des Fran&ccedil;ais, a marqu&eacute; le 19e si&egrave;cle avec la colonisation.</font></p>
+
+<p><font size= 5px>En 1956, la Tunisie a acc&eacute;d&eacute; &agrave; l'ind&eacute;pendance sous la direction de Habib Bourguiba, qui a oeuvr&eacute; pour la modernisation du pays. Cependant, l'arriv&eacute;e de Zine El Abidine Ben Ali en 1987 a &eacute;t&eacute; marqu&eacute;e par une p&eacute;riode autoritaire.</font></p>
+
+<p><font size= 5px>La r&eacute;volution de 2010-2011 a marqu&eacute; un tournant majeur, conduisant &agrave; la chute de Ben Ali et &agrave; la transition d&eacute;mocratique. Aujourd'hui, la Tunisie est une r&eacute;publique d&eacute;mocratique, continuant &agrave; surmonter des d&eacute;fis &eacute;conomiques et sociaux.</font></p>
+
+</body>
+</html>
